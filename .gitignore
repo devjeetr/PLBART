@@ -1,3 +1,8 @@
+# data folders
+data/codeXglue/code-to-code
+data/codeXglue/code-to-text
+data/codeXglue/text-to-code
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
