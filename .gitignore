@@ -1,8 +1,16 @@
 # data folders
+third_party/
+pretrain/checkpoint_11_100000.pt
+scripts/code_to_text/java_en_XX/
 data/codeXglue/code-to-code
 data/codeXglue/code-to-text
 data/codeXglue/text-to-code
-
+scripts/deepcom/java_en_XX
+scripts/sourcerer/java_en_XX
+scripts/tlcodesum/java_en_XX
+data/deepcom/java/*
+data/sourcerer/java/*
+data/tlcodesum/java/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
